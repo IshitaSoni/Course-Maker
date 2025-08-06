@@ -1,0 +1,178 @@
+{
+  "weeks": [
+    {
+      "week": 1,
+      "focus": "Basics: syntax, data types, operators, control flow",
+      "days": [
+        {
+          "day": 1,
+          "topic": "Installing Python, IDE (VSCode/Jupyter)",
+          "task": "Setup + print statements, comments"
+        },
+        {
+          "day": 2,
+          "topic": "Variables, Data Types",
+          "task": "Practice with `int`, `float`, `str`, `bool`"
+        },
+        {
+          "day": 3,
+          "topic": "Typecasting, Input/Output",
+          "task": "Build simple calculator"
+        },
+        {
+          "day": 4,
+          "topic": "Operators, Expressions",
+          "task": "Logical/math comparison tasks"
+        },
+        {
+          "day": 5,
+          "topic": "If/Else, Elif",
+          "task": "Create a basic grade checker"
+        },
+        {
+          "day": 6,
+          "topic": "Loops: for, while",
+          "task": "Write FizzBuzz, number games"
+        },
+        {
+          "day": 7,
+          "topic": "Practice Day",
+          "task": "HackerRank/LeetCode Easy problems"
+        }
+      ]
+    },
+    {
+      "week": 2,
+      "focus": "Functions, lists, dictionaries, sets, tuples",
+      "days": [
+        {
+          "day": 8,
+          "topic": "Functions: `def`, `return`, `args`",
+          "task": "Practice writing multiple functions"
+        },
+        {
+          "day": 9,
+          "topic": "Lists + List methods",
+          "task": "Write a to-do list manager"
+        },
+        {
+          "day": 10,
+          "topic": "Tuples & Sets",
+          "task": "Understand immutability & uniqueness"
+        },
+        {
+          "day": 11,
+          "topic": "Dictionaries",
+          "task": "Student grade tracker using dict"
+        },
+        {
+          "day": 12,
+          "topic": "Nested structures",
+          "task": "Quiz app with dict of questions"
+        },
+        {
+          "day": 13,
+          "topic": "Recap + practice",
+          "task": "5 small problems with mixed concepts"
+        },
+        {
+          "day": 14,
+          "topic": "Mini Project",
+          "task": "Contact Book / Simple Calculator UI"
+        }
+      ]
+    },
+    {
+      "week": 3,
+      "focus": "File I/O, modules, exceptions, intro to OOP",
+      "days": [
+        {
+          "day": 15,
+          "topic": "File I/O",
+          "task": "Read/write text files"
+        },
+        {
+          "day": 16,
+          "topic": "Try/Except",
+          "task": "Build a login validator with error handling"
+        },
+        {
+          "day": 17,
+          "topic": "Modules & `import`",
+          "task": "Use `math`, `random`, `datetime`"
+        },
+        {
+          "day": 18,
+          "topic": "OOP Basics: class, object",
+          "task": "Create a `Car` class"
+        },
+        {
+          "day": 19,
+          "topic": "OOP: `__init__`, methods",
+          "task": "Add attributes and behaviors to class"
+        },
+        {
+          "day": 20,
+          "topic": "Inheritance & `super()`",
+          "task": "Parent-child class structure"
+        },
+        {
+          "day": 21,
+          "topic": "Practice Day",
+          "task": "Rebuild calculator using classes"
+        }
+      ]
+    },
+    {
+      "week": 4,
+      "focus": "OOP continued, libraries (NumPy, Pandas), mini-projects",
+      "days": [
+        {
+          "day": 22,
+          "topic": "`pip`, installing libraries",
+          "task": "Install & try out libraries"
+        },
+        {
+          "day": 23,
+          "topic": "NumPy basics",
+          "task": "Array creation, slicing, math ops"
+        },
+        {
+          "day": 24,
+          "topic": "Pandas basics",
+          "task": "DataFrame creation & manipulation"
+        },
+        {
+          "day": 25,
+          "topic": "Matplotlib basics",
+          "task": "Plot basic graphs"
+        },
+        {
+          "day": 26,
+          "topic": "Recap & cleanup",
+          "task": "Revisit weak topics"
+        },
+        {
+          "day": 27,
+          "topic": "Mini project 1",
+          "task": "Budget Tracker (CSV + Pandas)"
+        },
+        {
+          "day": 28,
+          "topic": "Mini project 2",
+          "task": "Weather App (API + requests)"
+        },
+        {
+          "day": 29,
+          "topic": "Project polish",
+          "task": "Make your best project presentable"
+        },
+        {
+          "day": 30,
+          "topic": "Final review",
+          "task": "Test yourself + plan next steps"
+        }
+      ]
+    }
+  ]
+}
