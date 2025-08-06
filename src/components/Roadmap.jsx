@@ -1,6 +1,6 @@
 import React from "react";
 import roadmap from "../data/roadmap.json";
-import "./Roadmap.css"; // Optional custom styles
+import "./Roadmap.css"; 
 
 const Roadmap = () => {
   return (
