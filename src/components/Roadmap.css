@@ -1,7 +1,6 @@
 .roadmap {
     width: 100%;
     margin: 2rem;
-    padding: 2rem;
     font-family: sans-serif;
 }
 
@@ -29,4 +28,9 @@
   border-left: 4px solid #5e60ce;
   background: white;
   border-radius: 5px;
+}
+@media ( 890 px >width > 1350px) {
+    .weekcards h2{
+        font-size: 80%;
+    }
 }
